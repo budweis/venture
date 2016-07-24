@@ -1,6 +1,6 @@
 ---
 title: Siteleaf - A friendly CMS for your static site
-header_title: Built for developers, Loved by everyone
+header_title: The perfect place to start up..
 subtitle: "“The business plans of the next 10,000 startups are easy to forecast: take
   X and add AI” — Kevin Kelly, Wired"
 color: yellow
