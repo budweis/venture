@@ -32,8 +32,10 @@ defaults:
   values:
     layout: tag
 url: http://www.venture.ai
-description: Built for developers, Loved by everyone. Supports Jekyll, user collaboration,
-  publishing to AWS S3, GitHub Pages, FTP, and more.
+description: |-
+  AI Venture help startups and established companies invent, build, and launch their next product or venture.
+
+  We also build startups of our own.
 permalink: pretty
 exclude:
 - Gruntfile.js
@@ -57,8 +59,8 @@ sass:
   style: compressed
 per_page: 12
 date_format: "%b %d, %Y"
-google_analytics: UA-1666437-33
+google_analytics: 
 twitter:
-  username: Nicolaj_com
+  username: nicolaj_com
 logo: "/assets/logo.svg"
 future: true
