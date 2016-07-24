@@ -6,7 +6,7 @@ subtitle: "“The business plans of the next 10,000 startups are easy to forecas
 color: yellow
 button:
   title: Get started
-  url: https://manage.siteleaf.com/signup
+  url: "/signup"
 extended_header: true
 features:
 - title: 
