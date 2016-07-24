@@ -1,5 +1,5 @@
 ---
-title: Siteleaf
+title: AI Ventures
 timezone: America/New_York
 collections:
   posts:
@@ -31,7 +31,7 @@ defaults:
     type: blog_tags
   values:
     layout: tag
-url: http://www.siteleaf.com
+url: http://www.venture.ai
 description: Built for developers, Loved by everyone. Supports Jekyll, user collaboration,
   publishing to AWS S3, GitHub Pages, FTP, and more.
 permalink: pretty
@@ -59,6 +59,6 @@ per_page: 12
 date_format: "%b %d, %Y"
 google_analytics: UA-1666437-33
 twitter:
-  username: siteleaf
+  username: Nicolaj_com
 logo: "/assets/logo.svg"
 future: true
