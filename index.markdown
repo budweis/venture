@@ -3,7 +3,7 @@ title: New Ventures in Hi-Fi
 header_title: The perfect place to start up..
 subtitle: "“The business plans of the next 10,000 startups are easy to forecast: take
   X and add AI” — Kevin Kelly, Wired"
-color: yellow
+color: "#f0f038"
 button:
   title: Get started
   url: "/signup"
