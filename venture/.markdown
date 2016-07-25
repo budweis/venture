@@ -3,6 +3,7 @@ title: Venture
 date: 2016-07-25 01:00:00 +02:00
 permalink: "/ventures/"
 position: 7
+menu: 
 layout: post
 ---
 
