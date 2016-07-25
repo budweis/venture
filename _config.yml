@@ -31,7 +31,7 @@ defaults:
     type: blog_tags
   values:
     layout: tag
-url: http://www.venture.ai
+url: http://www.hackspace.net/venture/
 description: |-
   AI Venture help startups and established companies invent, build, and launch their next product or venture.
 
