@@ -3,7 +3,7 @@ title: Ventures
 date: 2016-07-25 22:14:00 +02:00
 permalink: "/ventures"
 position: 10
-site: 
+venture.markdown: venture.markdown
 layout: tag
 ---
 
