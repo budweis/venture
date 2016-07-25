@@ -1,7 +1,7 @@
 ---
 title: Ventures
 date: 2016-07-25 22:14:00 +02:00
-permalink: "/ventures"
+permalink: ventures
 position: 10
 markdown: about.markdown
 ---
