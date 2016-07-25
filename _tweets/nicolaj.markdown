@@ -1,5 +1,5 @@
 ---
-title: Jason Huff
+title: Nicolaj
 position: 0
 handle: "@nicolaj_com"
 image: "/uploads/bigboss.jpg"
