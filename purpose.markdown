@@ -1,6 +1,7 @@
 ---
 title: Purpose
 permalink: "/purpose/"
+position: 8
 layout: post
 color: green
 ---

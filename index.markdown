@@ -1,5 +1,6 @@
 ---
 title: New Ventures in Hi-Fi
+position: 4
 header_title: The perfect place to start up..
 subtitle: "“The business plans of the next 10,000 startups are easy to forecast: take
   X and add AI” — Kevin Kelly, Wired"

@@ -1,7 +1,8 @@
 ---
 title: Terms
-date: 2015-11-10 19:00:00 -05:00
+date: 2015-11-11 01:00:00 +01:00
 permalink: "/terms/"
+position: 9
 layout: post
 ---
 

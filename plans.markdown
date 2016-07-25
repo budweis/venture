@@ -1,6 +1,7 @@
 ---
 title: Plans
 permalink: "/plans/"
+position: 6
 subtitle: New sites start with a free 14 day trial on the Personal plan. Upgrade or
   downgrade anytime.
 header_button:

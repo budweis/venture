@@ -1,6 +1,7 @@
 ---
 title: Gallery
 permalink: "/gallery/"
+position: 3
 layout: gallery
 color: darkest-gray
 items:
