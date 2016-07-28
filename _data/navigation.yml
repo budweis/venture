@@ -3,22 +3,24 @@ header:
   url: /blog/
 - title: Gallery
   url: /gallery/
-- title: Plans
+- title: About
   url: /plans/
-- title: Learn
-  url: http://learn.siteleaf.com
-- title: Log in
-  url: https://manage.siteleaf.com
+- title: Venture
+  url: /venture/
+- title: HackFarm
+  url: /hackfarm/
 footer:
-- title: Features
-  url: /features/
+- title: Contact
+  url: /contact/
 - title: Press
-  url: http://siteleaf.dropmark.com/326718
+  url: /press/
 - title: Privacy
   url: /privacy/
 - title: Terms
   url: /terms/
-- title: Status
-  url: http://status.siteleaf.com
+- title: Github
+  url: http://www.github.com
 - title: Twitter
-  url: https://twitter.com/siteleaf
+  url: https://twitter.com/nicolaj_com
+- title: Slack
+  url: www.venture.ai
