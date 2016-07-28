@@ -14,9 +14,6 @@ collections:
   uploads:
     title: Uploads
     output: true
-  nicolaj:
-    title: nicolaj
-    output: true
 defaults:
 - scope:
     path: ''
