@@ -35,7 +35,7 @@ features:
     handle: connect
     body: Connect with your ecosystem
     image: "/uploads/home__manage--collaborate.jpg"
-  - title: Focos
+  - title: Focus
     handle: focus
     body: Focus on what you do best
     image: "/uploads/home__manage--preview.jpg"
@@ -45,7 +45,7 @@ features:
     image: "/uploads/home__manage--edit.jpg"
   - title: 'Pretotype '
     handle: business model
-    body: Pretotype your business model. Find out if there is a market.
+    body: 'Pr**e**totype your business model. '
     image: "/uploads/home__manage--customize.jpg"
 - title: Develop with tools you already love
   handle: develop
