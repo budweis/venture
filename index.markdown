@@ -26,30 +26,26 @@ features:
     body: Access by [API](http://learn.siteleaf.com/api/) or generate static sites
       to S3, GitHub, FTP
     image: "/uploads/home__intro--owl.svg"
-- title: Content management for the whole team
+- title: SHIFT HAPPENS
   handle: manage
   width: wide
   color: blue
   subsections:
-  - title: Collaborate
-    handle: collaborate
-    body: Invite your client or team to create and edit content. Set them as Admin,
-      Publisher, or Writer.
+  - title: Connect
+    handle: connect
+    body: Connect with your ecosystem
     image: "/uploads/home__manage--collaborate.jpg"
-  - title: Preview before you publish
-    handle: preview
-    body: Preview changes before they go live. Then publish with one click whenever
-      you’re ready.
+  - title: Focos
+    handle: focus
+    body: Focus on what you do best
     image: "/uploads/home__manage--preview.jpg"
-  - title: Smart text editor
-    handle: edit
-    body: Choose between a visual editor or just plain Markdown. Drag and drop images
-      or even entire text files.
+  - title: Evolve
+    handle: evolve
+    body: Evovle with technology
     image: "/uploads/home__manage--edit.jpg"
-  - title: Powerful content
-    handle: customize
-    body: Customize for your content, with document collections, advanced metadata,
-      and custom permalinks.
+  - title: 'Pretotype '
+    handle: business model
+    body: Pretotype your business model. Find out if there is a market.
     image: "/uploads/home__manage--customize.jpg"
 - title: Develop with tools you already love
   handle: develop
