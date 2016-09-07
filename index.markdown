@@ -46,7 +46,7 @@ features:
   - title: 'Pretotype '
     handle: business model
     body: 'Pr**e**totype your business model. '
-    image: "/uploads/home__manage--customize.jpg"
+    image: "/uploads/pretotype.jpeg"
 - title: Develop with tools you already love
   handle: develop
   background: lightest-gray
