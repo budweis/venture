@@ -42,7 +42,7 @@ features:
   - title: Evolve
     handle: evolve
     body: Evovle with technology
-    image: "/uploads/xdeuzpggnz70xkd0fbz6.gif"
+    image: "/uploads/MT.gif"
   - title: 'Pretotype '
     handle: business model
     body: 'Pr**e**totype your business model. '
