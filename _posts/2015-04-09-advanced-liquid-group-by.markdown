@@ -1,6 +1,6 @@
 ---
 title: 'Advanced Liquid: Group By'
-date: 2015-04-09 16:30:00 -04:00
+date: 2015-04-09 22:30:00 +02:00
 tags:
 - tutorial
 - liquid

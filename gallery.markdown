@@ -68,7 +68,7 @@ items:
 - title: Chroma
   image: "/uploads/gallery__chroma.jpg"
   url: http://chr.ma/
-- title: "Úll Conference"
+- title: Úll Conference
   image: "/uploads/gallery__ullconference.jpg"
   url: http://2014.ull.ie/
 - title: Adam Feuerman

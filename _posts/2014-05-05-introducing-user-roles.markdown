@@ -1,6 +1,6 @@
 ---
 title: Introducing user roles
-date: 2014-05-05 09:00:00 -04:00
+date: 2014-05-05 15:00:00 +02:00
 tags:
 - announcement
 hero: "/uploads/user-roles-post.jpg"

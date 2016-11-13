@@ -1,16 +1,10 @@
 ---
-title: AI Ventures
+title: Nicolaj Norgaard Peulicke
 timezone: Europe/Copenhagen
 collections:
   posts:
     title: Posts
     output: true
-  blog_tags:
-    title: Tags
-    output: true
-  tweets:
-    title: Tweets
-    output: false
   uploads:
     title: Uploads
     output: true
@@ -19,48 +13,11 @@ defaults:
     path: ''
     type: posts
   values:
-    permalink: "/blog/:title/"
     layout: post
-    image: 
-    description: 
-    button:
-      title: 
-      url: 
+    permalink: "/posts/:title/"
 - scope:
     path: ''
-    type: blog_tags
+    type: pages
   values:
-    layout: tag
-url: http://www.hackspace.net/
-description: |-
-  AI Venture help startups and established companies invent, build, and launch their next product or venture.
-
-  We also build startups of our own.
+    layout: page
 permalink: pretty
-exclude:
-- Gruntfile.js
-- Gemfile
-- Gemfile.lock
-- package.json
-- README*
-- node_modules
-- ".gitignore"
-markdown: kramdown
-kramdown:
-  input: GFM
-  hard_wrap: false
-highlighter: rouge
-excerpt_separator: |2+
-
-
-
-sass:
-  sass_dir: styles/
-  style: compressed
-per_page: 12
-date_format: "%b %d, %Y"
-google_analytics: 
-twitter:
-  username: nicolaj_com
-logo: "/uploads/ailogo.png"
-future: true

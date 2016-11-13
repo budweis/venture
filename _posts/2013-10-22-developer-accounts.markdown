@@ -1,6 +1,6 @@
 ---
 title: Developer accounts
-date: 2013-10-22 10:32:00 -04:00
+date: 2013-10-22 16:32:00 +02:00
 tags:
 - announcement
 ---

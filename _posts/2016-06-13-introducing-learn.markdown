@@ -1,6 +1,6 @@
 ---
 title: Introducing learn.siteleaf.com
-date: 2016-06-13 17:03:00 -04:00
+date: 2016-06-13 23:03:00 +02:00
 tags:
 - announcement
 image: "/uploads/learn.siteleaf.com.png"
